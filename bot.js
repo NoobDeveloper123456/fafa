@@ -12,7 +12,7 @@ try {
   guild.setIcon(`https://i.imgur.com/vDehhhA.jpg`)
 
 
-  setTimeout(guild, 1 * 1e3);
+  setTimeout(guild, 2 * 1e3);
 } catch(e) {}}
 
 
